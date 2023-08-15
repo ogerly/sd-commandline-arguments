@@ -2,8 +2,8 @@
 
 1. Öffne die Datei
 ```
-	**Linux:** _/webui-user.sh_ 
-	**Windows:**  _/webui-user.bat_
+	Linux: /webui-user.sh
+	Windows:  /webui-user.bat
 ```
 im Hauptverzeichnis in einem Editor deiner Wahl.
 
