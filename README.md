@@ -1,4 +1,13 @@
-## Stable Diffusion Commandline Argumente für webui.py
+## Stable Diffusion Commandline Argumente für webui-user-sh
+
+1. Öffne die Datei **webui-user-sh** im Hauptverzeichniss in einem Editor deiner Wahl.
+2. Passe **Zeile 13** an:
+
+   ![image](https://github.com/ogerly/sd-commandline-arguments/assets/1324583/07bebc57-e9b5-44f4-974d-6f9baac91dc1)
+
+
+
+## Commandline Argumente
 
 **--api-port:**  
 - Setzt einen benutzerdefinierten Port für die API
