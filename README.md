@@ -201,6 +201,8 @@ im Hauptverzeichnis in einem Editor deiner Wahl.
 - Kann helfen wenn Standardverzeichnis voll ist  
 
 **--xformers**
-- Aktiviert Xformers Architectur für schnelleres Inferencing
-- Benötigt sehr viel VRAM, mindestens 24 GB
-- Sollte nur genutzt werden mit hoher Grafikkarte
+- NVIDIA Only
+- Leistung Steigerung
+- VRAM Optimierung
+
+formers ist Crosslayer Optimier und sollte immer benutzt werden, da es den Prozess schneller macht und VRAM Optimaler ausnutzt, wo durch du Effektive größer Bilder machen kannst (mehr VRAM im Prozess zu verfügung hast) 
