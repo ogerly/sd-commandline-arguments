@@ -1,4 +1,4 @@
-## Stable Diffusion Commandline Argumente für webui-user-sh
+## Stable Diffusion Commandline Argumente für webui-user-sh & webui-user.bat
 
 1. Öffne die Datei
 ```
